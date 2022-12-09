@@ -1,0 +1,19 @@
+[tid="QGckE"]:after{
+  visibility: hidden;
+  width: auto;
+  background-color: #4477aa;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 10px;
+  content: "Essa é uma mensagem para passar uma orientação ao usuário";
+
+  position: absolute;
+  z-index: 1;
+}
+
+[tid="QGckE"]:hover:after{
+  visibility: visible;
+}
+
+
